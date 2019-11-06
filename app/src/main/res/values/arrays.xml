@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="country_names">
+        <item>Austria</item>
+        <item>Belgium</item>
+        <item>Bulgaria</item>
+        <item>Switzerland</item>
+        <item>Czech Republic</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Great Britain</item>
+        <item>Hungary</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Netherlands</item>
+        <item>Norway</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Romania</item>
+        <item>Serbia</item>
+        <item>Russian Federation</item>
+        <item>Sweden</item>
+        <item>U.S.A.</item>
+    </string-array>
+
+    <string-array name="country_values">
+        <item>at</item>
+        <item>be</item>
+        <item>bg</item>
+        <item>ch</item>
+        <item>cz</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>gb</item>
+        <item>hu</item>
+        <item>ie</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>rs</item>
+        <item>ru</item>
+        <item>se</item>
+        <item>us</item>
+    </string-array>
+
+    <string-array name="language_names">
+        <item>English</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>Russian</item>
+        <item>Dutch</item>
+        <item>Italian</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>en</item>
+        <item>de</item>
+        <item>es</item>
+        <item>ru</item>
+        <item>nl</item>
+        <item>it</item>
+        <item>fr</item>
+    </string-array>
+
+</resources>

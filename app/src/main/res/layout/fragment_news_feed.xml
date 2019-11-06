@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.teoryul.newsly.ui.custom.LoadingLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loading_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view_news_feed"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/no_dimens"
+            android:clipToPadding="false"
+            android:paddingBottom="@dimen/margin_between_elements_default" />
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</com.teoryul.newsly.ui.custom.LoadingLayout>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Newsly</string>
+
+    <!-- Common -->
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Bottom Navigation -->
+    <string name="title_main_nav_tab_for_you">For you</string>
+    <string name="title_main_nav_tab_top_headlines">Top Headlines</string>
+    <string name="title_main_nav_tab_favorites">Favorites</string>
+    <string name="title_main_nav_tab_settings">Settings</string>
+
+    <!-- Top Headlines Tabbed navigation -->
+    <string name="tab_title_business">Business</string>
+    <string name="tab_title_health">Health</string>
+    <string name="tab_title_science">Science</string>
+    <string name="tab_title_technology">Technology</string>
+    <string name="tab_title_sports">Sports</string>
+    <string name="tab_title_entertainment">Entertainment</string>
+
+    <!-- Favorites -->
+    <string name="title_favorite_topics">Topics</string>
+    <string name="title_favorite_sources">Sources</string>
+    <string name="title_favorite_articles">Saved</string>
+    <string name="btn_favorites_add_topic">Add topic</string>
+    <string name="btn_favorites_add_source">Add source</string>
+    <string name="btn_clear_all">Clear all</string>
+
+    <!-- Custom Loading View -->
+    <string name="btn_loading_view_try_again">Try again</string>
+
+    <!-- Dialogs -->
+    <string name="title_dialog_search_topics">Search for topics</string>
+    <string name="edt_dialog_search_topics_input_hint">Enter search phrase</string>
+    <string name="title_dialog_add_sources">Add news sources</string>
+
+    <!-- Settings -->
+    <string name="settings_list_country_title">Country</string>
+    <string name="settings_list_country_summary">Changes \"For you\" and \"Top Headlines\"\nnews feed region</string>
+    <string name="settings_list_country_key">region</string>
+    <string name="settings_list_language_title">Language</string>
+    <string name="settings_list_language_summary">Changes \"Topics\" and \"Sources\"\nsearch results display language</string>
+    <string name="settings_list_language_key">language</string>
+
+    <!-- State Messages -->
+    <string name="title_dialog_error">Something went wrong</string>
+    <string name="empty_news_feed_msg">Current News Feed is empty.</string>
+    <string name="check_network_conn_msg">Please check you internet connection.</string>
+    <string name="txt_news_feed_end">End of News Feed</string>
+    <string name="failed_to_load_web_view">Couldn\'t load news article.</string>
+    <string name="web_view_loading">Loading...</string>
+    <string name="add_favorite_topics_msg">Add your favorite topics</string>
+    <string name="invalid_topic_search_phrase_msg">Search phrase is invalid</string>
+    <string name="add_favorite_sources_msg">Add your favorite news sources</string>
+    <string name="no_available_news_sources">No available news sources at the moment</string>
+    <string name="no_saved_news_articles_msg">You haven\'t saved any news articles yet.</string>
+
+    <!-- Menus -->
+    <string name="title_options_menu_item_bookmark">Bookmark</string>
+    <string name="title_options_menu_item_favorite">Favorite</string>
+</resources>
